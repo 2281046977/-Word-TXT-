@@ -6,6 +6,7 @@
 // @author       2281046977
 // @match        *://*.chaoxing.com/*
 // @match        *://*.edu.cn/*
+// @icon         http://pan-yz.chaoxing.com/favicon.ico
 // @require      https://scriptcat.org/lib/668/1.0/TyprMd5.js
 // @resource     Table https://www.forestpolice.org/ttf/2.0/table.json
 // @grant        GM_getResourceText
@@ -545,3 +546,4 @@
 
 
 })();
+
