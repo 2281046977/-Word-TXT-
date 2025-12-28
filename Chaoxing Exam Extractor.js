@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      4.5
 // @description  一键提取学习通章节测验的题目，自动彻底解密乱码（参考字体解密脚本），支持导出Word和TXT，UI美化并置顶。
-// @author       Gemini & User
+// @author       2281046977
 // @match        *://*.chaoxing.com/*
 // @match        *://*.edu.cn/*
 // @require      https://scriptcat.org/lib/668/1.0/TyprMd5.js
@@ -542,5 +542,6 @@
             window.addEventListener('load', init);
         }
     }, 2000); // 稍微延长等待时间
+
 
 })();
